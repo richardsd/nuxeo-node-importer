@@ -26,7 +26,7 @@
   ],
   "dependencies": {
     "commander": "^2.3.0",
-    "nuxeo": "^0.20.1",
+    "nuxeo": "0.25.0",
     "promise-queue": "^2.2.2"
   }
 }

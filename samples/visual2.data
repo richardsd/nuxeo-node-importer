@@ -1,0 +1,11 @@
+{
+  "nxproduct:name" : "test name2",
+  "nxproduct:size" : "100",
+  "nxproduct:productPrice" : "10",
+  "nxproduct:productId" : "productId2",
+  "nxproduct:originOfFabrication" : "EN",
+  "nxproduct:availableImmediately" : false,
+  "nxproduct:categories" : ["home/gardening"],
+  "dc:title" : "Test Visual 2",
+  "file:content" : "sample2.png"
+}
